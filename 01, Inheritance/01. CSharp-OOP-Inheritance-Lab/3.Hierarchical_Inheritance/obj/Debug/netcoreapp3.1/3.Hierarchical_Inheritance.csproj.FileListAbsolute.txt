@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\bin\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.exe
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\bin\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.deps.json
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\bin\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.runtimeconfig.json
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\bin\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\bin\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.dll
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\bin\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.pdb
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.dll
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.pdb
+C:\Users\lenovo\source\repos\Inheritance\3.Hierarchical_Inheritance\obj\Debug\netcoreapp3.1\3.Hierarchical_Inheritance.genruntimeconfig.cache

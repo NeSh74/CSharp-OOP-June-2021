@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\bin\Debug\netcoreapp3.1\2.Multiple_Inheritance.exe
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\bin\Debug\netcoreapp3.1\2.Multiple_Inheritance.deps.json
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\bin\Debug\netcoreapp3.1\2.Multiple_Inheritance.runtimeconfig.json
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\bin\Debug\netcoreapp3.1\2.Multiple_Inheritance.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\bin\Debug\netcoreapp3.1\2.Multiple_Inheritance.dll
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\bin\Debug\netcoreapp3.1\2.Multiple_Inheritance.pdb
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.dll
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.pdb
+C:\Users\lenovo\source\repos\Inheritance\2.Multiple_Inheritance\obj\Debug\netcoreapp3.1\2.Multiple_Inheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\bin\Debug\netcoreapp3.1\1.Single_Inheritance.exe
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\bin\Debug\netcoreapp3.1\1.Single_Inheritance.deps.json
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\bin\Debug\netcoreapp3.1\1.Single_Inheritance.runtimeconfig.json
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\bin\Debug\netcoreapp3.1\1.Single_Inheritance.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\bin\Debug\netcoreapp3.1\1.Single_Inheritance.dll
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\bin\Debug\netcoreapp3.1\1.Single_Inheritance.pdb
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.dll
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.pdb
+C:\Users\lenovo\source\repos\Inheritance\1.Single Inheritance\obj\Debug\netcoreapp3.1\1.Single_Inheritance.genruntimeconfig.cache

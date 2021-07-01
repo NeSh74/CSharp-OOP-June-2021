@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\bin\Debug\netcoreapp3.1\5.Stack_Of_Strings.exe
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\bin\Debug\netcoreapp3.1\5.Stack_Of_Strings.deps.json
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\bin\Debug\netcoreapp3.1\5.Stack_Of_Strings.runtimeconfig.json
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\bin\Debug\netcoreapp3.1\5.Stack_Of_Strings.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\bin\Debug\netcoreapp3.1\5.Stack_Of_Strings.dll
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\bin\Debug\netcoreapp3.1\5.Stack_Of_Strings.pdb
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\obj\Debug\netcoreapp3.1\5.Stack_Of_Strings.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\obj\Debug\netcoreapp3.1\5.Stack_Of_Strings.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\obj\Debug\netcoreapp3.1\5.Stack_Of_Strings.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\obj\Debug\netcoreapp3.1\5.Stack_Of_Strings.dll
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\obj\Debug\netcoreapp3.1\5.Stack_Of_Strings.pdb
+C:\Users\lenovo\source\repos\Inheritance\5.Stack_Of_Strings\obj\Debug\netcoreapp3.1\5.Stack_Of_Strings.genruntimeconfig.cache
