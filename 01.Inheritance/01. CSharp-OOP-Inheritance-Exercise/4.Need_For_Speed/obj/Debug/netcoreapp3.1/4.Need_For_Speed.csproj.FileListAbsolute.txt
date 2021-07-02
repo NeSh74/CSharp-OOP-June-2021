@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\bin\Debug\netcoreapp3.1\4.Need_For_Speed.exe
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\bin\Debug\netcoreapp3.1\4.Need_For_Speed.deps.json
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\bin\Debug\netcoreapp3.1\4.Need_For_Speed.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\bin\Debug\netcoreapp3.1\4.Need_For_Speed.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\bin\Debug\netcoreapp3.1\4.Need_For_Speed.dll
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\bin\Debug\netcoreapp3.1\4.Need_For_Speed.pdb
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.dll
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.pdb
+C:\Users\lenovo\source\repos\Exercise_Inheritance\4.Need_For_Speed\obj\Debug\netcoreapp3.1\4.Need_For_Speed.genruntimeconfig.cache
