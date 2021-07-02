@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\bin\Debug\netcoreapp3.1\2.Salary_Increase.exe
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\bin\Debug\netcoreapp3.1\2.Salary_Increase.deps.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\bin\Debug\netcoreapp3.1\2.Salary_Increase.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\bin\Debug\netcoreapp3.1\2.Salary_Increase.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\bin\Debug\netcoreapp3.1\2.Salary_Increase.dll
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\bin\Debug\netcoreapp3.1\2.Salary_Increase.pdb
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\obj\Debug\netcoreapp3.1\2.Salary_Increase.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\obj\Debug\netcoreapp3.1\2.Salary_Increase.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\obj\Debug\netcoreapp3.1\2.Salary_Increase.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\obj\Debug\netcoreapp3.1\2.Salary_Increase.dll
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\obj\Debug\netcoreapp3.1\2.Salary_Increase.pdb
+C:\Users\lenovo\source\repos\Lab_Encapsulation\2.Salary_Increase\obj\Debug\netcoreapp3.1\2.Salary_Increase.genruntimeconfig.cache

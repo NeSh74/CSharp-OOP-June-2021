@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\bin\Debug\netcoreapp3.1\06.Animals.exe
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\bin\Debug\netcoreapp3.1\06.Animals.deps.json
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\bin\Debug\netcoreapp3.1\06.Animals.runtimeconfig.json
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\bin\Debug\netcoreapp3.1\06.Animals.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\bin\Debug\netcoreapp3.1\06.Animals.dll
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\bin\Debug\netcoreapp3.1\06.Animals.pdb
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.dll
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.pdb
+C:\Users\lenovo\source\repos\06.Animals\06.Animals\obj\Debug\netcoreapp3.1\06.Animals.genruntimeconfig.cache

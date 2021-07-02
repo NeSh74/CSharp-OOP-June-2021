@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\bin\Debug\netcoreapp3.1\4.First_And_Reserve_Team.exe
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\bin\Debug\netcoreapp3.1\4.First_And_Reserve_Team.deps.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\bin\Debug\netcoreapp3.1\4.First_And_Reserve_Team.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\bin\Debug\netcoreapp3.1\4.First_And_Reserve_Team.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\bin\Debug\netcoreapp3.1\4.First_And_Reserve_Team.dll
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\bin\Debug\netcoreapp3.1\4.First_And_Reserve_Team.pdb
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\obj\Debug\netcoreapp3.1\4.First_And_Reserve_Team.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\obj\Debug\netcoreapp3.1\4.First_And_Reserve_Team.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\obj\Debug\netcoreapp3.1\4.First_And_Reserve_Team.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\obj\Debug\netcoreapp3.1\4.First_And_Reserve_Team.dll
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\obj\Debug\netcoreapp3.1\4.First_And_Reserve_Team.pdb
+C:\Users\lenovo\source\repos\Lab_Encapsulation\4.First_And_Reserve_Team\obj\Debug\netcoreapp3.1\4.First_And_Reserve_Team.genruntimeconfig.cache

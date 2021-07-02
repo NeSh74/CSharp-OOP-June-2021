@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\bin\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.exe
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\bin\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.deps.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\bin\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\bin\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\bin\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.dll
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\bin\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.pdb
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.dll
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.pdb
+C:\Users\lenovo\source\repos\Lab_Encapsulation\1.Sort_Persons_By_Name_And_Age\obj\Debug\netcoreapp3.1\1.Sort_Persons_By_Name_And_Age.genruntimeconfig.cache
