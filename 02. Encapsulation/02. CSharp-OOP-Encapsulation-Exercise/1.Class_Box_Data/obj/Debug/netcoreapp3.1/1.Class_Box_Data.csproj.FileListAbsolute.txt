@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\bin\Debug\netcoreapp3.1\1.Class_Box_Data.exe
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\bin\Debug\netcoreapp3.1\1.Class_Box_Data.deps.json
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\bin\Debug\netcoreapp3.1\1.Class_Box_Data.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\bin\Debug\netcoreapp3.1\1.Class_Box_Data.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\bin\Debug\netcoreapp3.1\1.Class_Box_Data.dll
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\bin\Debug\netcoreapp3.1\1.Class_Box_Data.pdb
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.dll
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.pdb
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\1.Class_Box_Data\obj\Debug\netcoreapp3.1\1.Class_Box_Data.genruntimeconfig.cache

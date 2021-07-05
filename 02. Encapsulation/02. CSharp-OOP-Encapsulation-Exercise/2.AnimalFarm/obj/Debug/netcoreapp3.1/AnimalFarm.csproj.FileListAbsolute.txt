@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\lenovo\source\repos\Exercise_Encapsulation\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
