@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\bin\Debug\netcoreapp3.1\3.Shapes.exe
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\bin\Debug\netcoreapp3.1\3.Shapes.deps.json
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\bin\Debug\netcoreapp3.1\3.Shapes.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\bin\Debug\netcoreapp3.1\3.Shapes.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\bin\Debug\netcoreapp3.1\3.Shapes.dll
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\bin\Debug\netcoreapp3.1\3.Shapes.pdb
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.dll
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.pdb
+C:\Users\lenovo\source\repos\Lab_Polymorphism\3.Shapes\obj\Debug\netcoreapp3.1\3.Shapes.genruntimeconfig.cache
