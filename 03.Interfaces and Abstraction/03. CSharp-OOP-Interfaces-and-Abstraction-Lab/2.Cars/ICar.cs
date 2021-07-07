@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Cars
+﻿namespace Cars
 {
     public interface ICar
     {
-        public string Model { get; set; }
+        public string Model { get; }
 
-        public string Color { get; set; }
+        public string Color { get; }
 
         public string Start();
 

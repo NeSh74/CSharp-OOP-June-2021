@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Cars
+﻿namespace Cars
 {
-    public class Seat : ICar
+    public class Seat:ICar 
     {
         public Seat(string model, string color)
         {
@@ -12,9 +8,9 @@ namespace Cars
             Color = color;
         }
 
-        public string Model { get; set; }
+        public string Model { get; private set; }
 
-        public string Color { get; set; }
+        public string Color { get; private set; }
 
         public string Start()
         {
@@ -25,6 +21,7 @@ namespace Cars
         {
             return "Breaaak!";
         }
+
         public override string ToString()
         {
             return $"{Color} Seat {Model}";

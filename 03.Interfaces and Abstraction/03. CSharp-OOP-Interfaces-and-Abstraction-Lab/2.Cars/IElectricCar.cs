@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Cars
+﻿namespace Cars
 {
     public interface IElectricCar
     {
-        public int Battery { get; set; }
+        public int Battery { get; }
     }
 }

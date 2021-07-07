@@ -1,13 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\bin\Debug\netcoreapp3.1\1.Shapes.exe
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\bin\Debug\netcoreapp3.1\1.Shapes.deps.json
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\bin\Debug\netcoreapp3.1\1.Shapes.runtimeconfig.json
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\bin\Debug\netcoreapp3.1\1.Shapes.runtimeconfig.dev.json
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\bin\Debug\netcoreapp3.1\1.Shapes.dll
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\bin\Debug\netcoreapp3.1\1.Shapes.pdb
-C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.csproj.AssemblyReference.cache
-C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.AssemblyInfoInputs.cache
-C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.AssemblyInfo.cs
-C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.csproj.CoreCompileInputs.cache
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.dll
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.pdb
 C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\1.Shapes\obj\Debug\netcoreapp3.1\1.Shapes.genruntimeconfig.cache

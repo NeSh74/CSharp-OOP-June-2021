@@ -1,47 +1,57 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Shapes
 {
     public class Rectangle : IDrawable
     {
-        private int height;
         private int width;
+        private int height;
 
         public Rectangle(int width, int height)
         {
-            Width = width;
-            Height = height;
+            this.Width = width;
+            this.Height = height;
+
         }
 
         public int Width
         {
             get => this.width;
-            set
+            private set
             {
                 this.width = value;
             }
         }
+
         public int Height
         {
             get => this.height;
-            set
+            private set
             {
                 this.height = value;
             }
         }
-        
+
         public void Draw()
         {
-            for (int row = 0; row < Height; row++)
+            DrawLine(this.width, '*', '*');
+            for (int i = 1; i < this.height - 1; ++i)
             {
-                for (int col = 0; col < Width; col++)
-                {
-                    Console.Write("*");
-                }
-                Console.WriteLine();
+                DrawLine(this.width, '*', ' ');
             }
+
+            DrawLine(this.width, '*', '*');
+        }
+
+        private void DrawLine(int width, char end, char mid)
+        {
+            Console.Write(end);
+
+            for (int i = 1; i < width - 1; ++i)
+            {
+                Console.Write(mid);
+            }
+            Console.WriteLine(end);
         }
     }
 }

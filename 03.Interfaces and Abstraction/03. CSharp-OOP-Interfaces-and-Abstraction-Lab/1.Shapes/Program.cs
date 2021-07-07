@@ -1,31 +1,21 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Drawing;
 
 namespace Shapes
 {
     public class StartUp
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            List<IDrawable> drawableObjects = new List<IDrawable>();
-            
-            drawableObjects.Add(new NotDrawable());
+            var radius = int.Parse(Console.ReadLine());
+            IDrawable circle = new Circle(radius);
 
-            drawableObjects.Add(new Rectangle(6, 4));
-            drawableObjects.Add(new Circle(5));
-            drawableObjects.Add(new Rectangle(6, 4));
-            drawableObjects.Add(new Circle(5));
-            drawableObjects.Add(new Rectangle(6, 4));
-            drawableObjects.Add(new Circle(5));
-            drawableObjects.Add(new Rectangle(6, 4));
-            drawableObjects.Add(new Circle(5));
-            drawableObjects.Add(new Rectangle(6, 4));
-            drawableObjects.Add(new Circle(5));
+            var width = int.Parse(Console.ReadLine());
+            var height = int.Parse(Console.ReadLine());
+            IDrawable rect = new Rectangle(width, height);
 
-            foreach (var item in drawableObjects )
-            {
-                item.Draw();
-            }
+            circle.Draw();
+            rect.Draw();
         }
     }
 }

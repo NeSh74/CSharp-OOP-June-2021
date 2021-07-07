@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\bin\Debug\netcoreapp3.1\2.Cars.exe
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\bin\Debug\netcoreapp3.1\2.Cars.deps.json
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\bin\Debug\netcoreapp3.1\2.Cars.runtimeconfig.json
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\bin\Debug\netcoreapp3.1\2.Cars.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\bin\Debug\netcoreapp3.1\2.Cars.dll
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\bin\Debug\netcoreapp3.1\2.Cars.pdb
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.dll
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.pdb
+C:\Users\lenovo\source\repos\Lab_Interfaces_And_Abstraction\2.Cars\obj\Debug\netcoreapp3.1\2.Cars.genruntimeconfig.cache
