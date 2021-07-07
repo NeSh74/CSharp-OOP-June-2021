@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\bin\Debug\netcoreapp3.1\5.Birthday_Celebrations.exe
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\bin\Debug\netcoreapp3.1\5.Birthday_Celebrations.deps.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\bin\Debug\netcoreapp3.1\5.Birthday_Celebrations.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\bin\Debug\netcoreapp3.1\5.Birthday_Celebrations.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\bin\Debug\netcoreapp3.1\5.Birthday_Celebrations.dll
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\bin\Debug\netcoreapp3.1\5.Birthday_Celebrations.pdb
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.dll
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.pdb
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\5.Birthday_Celebrations\obj\Debug\netcoreapp3.1\5.Birthday_Celebrations.genruntimeconfig.cache

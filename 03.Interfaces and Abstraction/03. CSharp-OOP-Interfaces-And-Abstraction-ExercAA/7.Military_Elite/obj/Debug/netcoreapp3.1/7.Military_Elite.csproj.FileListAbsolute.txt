@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\bin\Debug\netcoreapp3.1\7.Military_Elite.exe
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\bin\Debug\netcoreapp3.1\7.Military_Elite.deps.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\bin\Debug\netcoreapp3.1\7.Military_Elite.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\bin\Debug\netcoreapp3.1\7.Military_Elite.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\bin\Debug\netcoreapp3.1\7.Military_Elite.dll
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\bin\Debug\netcoreapp3.1\7.Military_Elite.pdb
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.dll
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.pdb
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\7.Military_Elite\obj\Debug\netcoreapp3.1\7.Military_Elite.genruntimeconfig.cache

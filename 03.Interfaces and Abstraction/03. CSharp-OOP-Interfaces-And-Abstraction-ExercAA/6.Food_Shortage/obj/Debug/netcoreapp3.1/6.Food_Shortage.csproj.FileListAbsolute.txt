@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\bin\Debug\netcoreapp3.1\6.Food_Shortage.exe
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\bin\Debug\netcoreapp3.1\6.Food_Shortage.deps.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\bin\Debug\netcoreapp3.1\6.Food_Shortage.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\bin\Debug\netcoreapp3.1\6.Food_Shortage.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\bin\Debug\netcoreapp3.1\6.Food_Shortage.dll
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\bin\Debug\netcoreapp3.1\6.Food_Shortage.pdb
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.dll
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.pdb
+C:\Users\lenovo\source\repos\Exercise_Interfaces_And_Abstraction\6.Food_Shortage\obj\Debug\netcoreapp3.1\6.Food_Shortage.genruntimeconfig.cache
