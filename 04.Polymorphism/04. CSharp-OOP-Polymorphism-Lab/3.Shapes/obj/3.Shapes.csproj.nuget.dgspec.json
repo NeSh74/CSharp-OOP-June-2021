@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\3.Shapes\\3.Shapes.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\3.Shapes\\3.Shapes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\3.Shapes\\3.Shapes.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\3.Shapes\\3.Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\3.Shapes\\3.Shapes.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\3.Shapes\\3.Shapes.csproj",
         "projectName": "3.Shapes",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\3.Shapes\\3.Shapes.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\3.Shapes\\3.Shapes.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\3.Shapes\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\3.Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

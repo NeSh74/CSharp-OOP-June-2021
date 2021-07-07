@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\1.MathOperation\\1.MathOperation.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\1.MathOperation\\1.MathOperation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\1.MathOperation\\1.MathOperation.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\1.MathOperation\\1.MathOperation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\1.MathOperation\\1.MathOperation.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\1.MathOperation\\1.MathOperation.csproj",
         "projectName": "1.MathOperation",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\1.MathOperation\\1.MathOperation.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\1.MathOperation\\1.MathOperation.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\1.MathOperation\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\1.MathOperation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

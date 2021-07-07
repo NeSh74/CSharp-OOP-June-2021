@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\2.Animals\\2.Animals.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\2.Animals\\2.Animals.csproj",
       "projectName": "2.Animals",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\2.Animals\\2.Animals.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\2.Animals\\2.Animals.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Lab_Polymorphism\\2.Animals\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\04.Polymorphism\\04. CSharp-OOP-Polymorphism-Lab\\2.Animals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
