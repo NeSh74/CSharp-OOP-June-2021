@@ -1,99 +1,88 @@
 ﻿using System;
 
-namespace VehiclesExtension
+namespace _2.Vehicles_Extension
 {
-    public class StartUp
+    class Program
     {
         static void Main(string[] args)
         {
-            Vehicle car = CreateVehicle();
-            Vehicle truck = CreateVehicle();
-            Vehicle bus = CreateVehicle();
+            string[] carTokens = Console.ReadLine().Split();
+            string[] truckTokens = Console.ReadLine().Split();
+            string[] busTokens = Console.ReadLine().Split();
 
-            int n = int.Parse(Console.ReadLine());
+            Vehicle car = new Car(double.Parse(carTokens[1]), double.Parse(carTokens[2]), double.Parse(carTokens[3]));
+            Vehicle truck = new Truck(double.Parse(truckTokens[1]), double.Parse(truckTokens[2]), double.Parse(truckTokens[3]));
+            Bus bus = new Bus(double.Parse(busTokens[1]), double.Parse(busTokens[2]), double.Parse(busTokens[3]));
 
-            for (int i = 0; i < n; i++)
+            int numberOfComments = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < numberOfComments; i++)
             {
-                string[] parts = Console.ReadLine().Split();
+                string[] currentLine = Console.ReadLine().Split();
+                string command = currentLine[0];
+                string type = currentLine[1];
+                double amount = double.Parse(currentLine[2]);
 
-                string command = parts[0];
-                string vehicleType = parts[1];
-                double parameter = double.Parse(parts[2]);
-
-
-                try
+                if (command == "Drive")
                 {
-                    if (vehicleType == nameof(Car))
+                    if (type == "Car")
                     {
-                        ProcessCommand(car, command, parameter);
+                        CanDrive(car, amount);
                     }
-                    else if (vehicleType == nameof(Bus))
+                    else if (type == "Truck")
                     {
-                        ProcessCommand(bus, command, parameter);
+                        CanDrive(truck, amount);
                     }
                     else
                     {
-                        ProcessCommand(truck, command, parameter);
+                        bus.isEmpty = false;
+                        CanDrive(bus, amount);
                     }
                 }
-                catch (Exception ex)
-                when (ex is InvalidOperationException || ex is ArgumentException)
+                else if (command == "Refuel")
                 {
-                    Console.WriteLine(ex.Message);
+                    try
+                    {
+                        if (type == "Car")
+                        {
+                            car.Refuel(amount);
+                        }
+                        else if (type == "Truck")
+                        {
+                            truck.Refuel(amount);
+                        }
+                        else
+                        {
+                            bus.Refuel(amount);
+                        }
+                    }
+                    catch (InvalidOperationException ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                    }
+                }
+                else
+                {
+                    bus.isEmpty = true;
+                    CanDrive(bus, amount);
                 }
             }
 
-
-            Console.WriteLine(car);
-            Console.WriteLine(truck);
-            Console.WriteLine(bus);
+            Console.WriteLine($"Car: {car.FuelQuantity:F2}");
+            Console.WriteLine($"Truck: {truck.FuelQuantity:F2}");
+            Console.WriteLine($"Bus: {bus.FuelQuantity:F2}");
+            
         }
 
-        private static void ProcessCommand(Vehicle vehicle, string command, double parameter)
+        public static void CanDrive(Vehicle vehicle, double distance)
         {
-            if (command == "Drive")
-            {
-                vehicle.Drive(parameter);
+            bool canDrive = vehicle.CanDrive(distance);
+            string vehicleType = vehicle.GetType().Name;
+            string result = canDrive
+                ? $"{vehicleType} travelled {distance} km"
+                : $"{vehicleType} needs refueling";
 
-                Console.WriteLine($"{vehicle.GetType().Name} travelled {parameter} km");
-
-            }
-            else if (command == "DriveEmpty")
-            {
-                ((Bus)vehicle).DriveEmpty( parameter );
-
-                Console.WriteLine($"{vehicle.GetType().Name} travelled {parameter} km");
-            }
-            else
-            {
-                vehicle.Refuel(parameter);
-            }
-        }
-
-        private static Vehicle CreateVehicle()
-        {
-            string[] parts = Console.ReadLine().Split();
-            string type = parts[0];
-            double fuelQuantity = double.Parse(parts[1]);
-            double fuelConsumption = double.Parse(parts[2]);
-            double tankCapacity = double.Parse(parts[3]);
-
-            Vehicle vehicle = null;
-
-            if (type == nameof(Car))
-            {
-                vehicle = new Car(fuelQuantity, fuelConsumption, tankCapacity);
-            }
-            else if (type == nameof(Truck))
-            {
-                vehicle = new Truck(fuelQuantity, fuelConsumption, tankCapacity);
-            }
-            else if (type == nameof(Bus))
-            {
-                vehicle = new Bus(fuelQuantity, fuelConsumption, tankCapacity);
-            }
-
-            return vehicle;
+            Console.WriteLine(result);
         }
     }
 }

@@ -1,42 +1,32 @@
-﻿using System;
-
-namespace Vehicles
+﻿namespace _1.Vehicles
 {
     public abstract class Vehicle
     {
-        protected Vehicle(double fuel, double fuelConsumption, double airConditionerModifier)
+        protected Vehicle(double fuelQuantity, double fuelConsumtion)
         {
-            this.Fuel = fuel;
-            this.FuelConsumption = fuelConsumption;
-            this.AirConditionerModifier = airConditionerModifier;
+            this.FuelQuantity = fuelQuantity;
+            this.FuelConsumption = fuelConsumtion;
         }
 
-        private double AirConditionerModifier { get; set; }
+        public double FuelQuantity { get; private set; }
 
-        public double Fuel { get; private set; }
-
-        public double FuelConsumption { get; private set; }
-
-        public void Drive(double distance)
-        {
-            double requiredFuel = (this.FuelConsumption + AirConditionerModifier) * distance;
-
-            if (requiredFuel > this.Fuel)
-            {
-                throw new InvalidOperationException($"{this.GetType().Name} needs refueling");
-            }
-
-            this.Fuel -= requiredFuel;
-        }
+        public virtual double FuelConsumption { get; }
 
         public virtual void Refuel(double amount)
         {
-            this.Fuel += amount;
+            this.FuelQuantity += amount;
         }
 
-        public override string ToString()
+        public bool CanDrive(double distance)
         {
-            return $"{this.GetType().Name}: {this.Fuel:F2}";
+            bool canDrive = this.FuelQuantity - this.FuelConsumption * distance >= 0;
+            if (!canDrive )
+            {
+                return false;
+            }
+
+            this.FuelQuantity -= FuelConsumption * distance;
+            return true;
         }
     }
 }

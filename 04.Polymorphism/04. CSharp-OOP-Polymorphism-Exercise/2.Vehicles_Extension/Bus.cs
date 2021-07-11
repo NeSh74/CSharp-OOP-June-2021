@@ -1,25 +1,17 @@
-﻿using System;
-
-namespace VehiclesExtension
+﻿namespace _2.Vehicles_Extension
 {
     public class Bus : Vehicle
     {
-        private const double BusAirConditionModifier = 1.4;
+        private const double AirConditionConsumption = 1.4;
 
-        public Bus(double fuel, double fuelConsumption, double tankCapacity)
-            : base(fuel, fuelConsumption, tankCapacity, BusAirConditionModifier)
+        public Bus(double fuelQuantity, double fuelConsumtion, double tankCapacity) : base(fuelQuantity, fuelConsumtion, tankCapacity)
         {
         }
-        public void DriveEmpty(double distance)
-        {
-            double requiredFuel = this.FuelConsumption * distance;
 
-            if (requiredFuel > this.Fuel)
-            {
-                throw new InvalidOperationException($"{this.GetType().Name} needs refueling");
-            }
+        public bool isEmpty { get; set; }
 
-            this.Fuel -= requiredFuel;
-        }
+        public override double FuelConsumption => this.isEmpty
+            ? base.FuelConsumption
+            : base.FuelConsumption + AirConditionConsumption;
     }
 }

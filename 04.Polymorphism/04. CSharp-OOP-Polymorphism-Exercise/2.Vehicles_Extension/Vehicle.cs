@@ -1,70 +1,62 @@
 ﻿using System;
 
-namespace VehiclesExtension
+namespace _2.Vehicles_Extension
 {
     public abstract class Vehicle
     {
-        private double fuel;
+        private double fuelQuantity;
 
-        protected Vehicle(double fuel, double fuelConsumption, double tankCapacity, double airConditionerModifier)
+        protected Vehicle(double fuelQuantity, double fuelConsumtion, double tankCapacity)
         {
             this.TankCapacity = tankCapacity;
-            this.Fuel = fuel;
-            this.FuelConsumption = fuelConsumption;
-            this.AirConditionerModifier = airConditionerModifier;
+            this.FuelQuantity = fuelQuantity;
+            this.FuelConsumption = fuelConsumtion;
         }
 
-        private double AirConditionerModifier { get; set; }
+        public double TankCapacity { get; }
 
-        public double Fuel
+        public double FuelQuantity
         {
-            get => this.fuel;
-            protected set
+            get => this.fuelQuantity;
+            private set
             {
                 if (value > this.TankCapacity)
                 {
-                    this.fuel = 0;
+                    this.fuelQuantity = 0;
                 }
                 else
                 {
-                    this.fuel = value;
+                    this.fuelQuantity = value;
                 }
             }
         }
 
-        public double FuelConsumption { get; private set; }
-
-        public double TankCapacity { get; private set; }
-
-        public virtual void Drive(double distance)
-        {
-            double requiredFuel = (this.FuelConsumption + AirConditionerModifier) * distance;
-
-            if (requiredFuel > this.Fuel)
-            {
-                throw new InvalidOperationException($"{this.GetType().Name} needs refueling");
-            }
-
-            this.Fuel -= requiredFuel;
-        }
+        public virtual double FuelConsumption { get; }
 
         public virtual void Refuel(double amount)
         {
             if (amount <= 0)
             {
-                throw new ArgumentException("Fuel must be a positive number");
+                throw new InvalidOperationException("Fuel must be a positive number");
             }
 
-            if (this.Fuel + amount > this.TankCapacity)
+            if (amount > this .TankCapacity)
             {
                 throw new InvalidOperationException($"Cannot fit {amount} fuel in the tank");
             }
-            this.Fuel += amount;
+            this.FuelQuantity += amount;
         }
 
-        public override string ToString()
+        public bool CanDrive(double distance)
         {
-            return $"{this.GetType().Name}: {this.Fuel:F2}";
+            bool canDrive = this.FuelQuantity - this.FuelConsumption * distance >= 0;
+            if (!canDrive)
+            {
+                return false;
+            }
+
+            this.FuelQuantity -= FuelConsumption * distance;
+            return true;
         }
     }
 }

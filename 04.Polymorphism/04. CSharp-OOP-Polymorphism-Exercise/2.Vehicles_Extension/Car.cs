@@ -1,12 +1,14 @@
-﻿namespace VehiclesExtension
+﻿namespace _2.Vehicles_Extension
 {
     public class Car : Vehicle
     {
-        private const double CarAirConditionerModifier = 0.9;
-        public Car(double fuel, double fuelConsumption, double tankCapacity)
-            : base(fuel, fuelConsumption, tankCapacity, CarAirConditionerModifier)
-        {
+        private const double AirConditionConsumption = 0.9;
 
+        public Car(double fuelQuantity, double fuelConsumtion, double tankCapacity)
+            : base(fuelQuantity, fuelConsumtion, tankCapacity)
+        {
         }
+
+        public override double FuelConsumption => base.FuelConsumption + AirConditionConsumption;
     }
 }

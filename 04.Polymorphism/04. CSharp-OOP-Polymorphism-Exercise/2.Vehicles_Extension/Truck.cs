@@ -1,28 +1,25 @@
 ﻿using System;
 
-namespace VehiclesExtension
+namespace _2.Vehicles_Extension
 {
     public class Truck : Vehicle
     {
-        private const double TruckAirConditionerModifier = 1.6;
+        private const double AirConditionConsumption = 1.6;
 
-        public Truck(double fuel, double fuelConsumption, double tankCapacity)
-            : base(fuel, fuelConsumption, tankCapacity, TruckAirConditionerModifier)
+        public Truck(double fuelQuantity, double fuelConsumtion, double tankCapacity)
+            : base(fuelQuantity, fuelConsumtion, tankCapacity)
         {
         }
 
+        public override double FuelConsumption => base.FuelConsumption + AirConditionConsumption;
+
         public override void Refuel(double amount)
         {
-            if (amount <= 0)
-            {
-                throw new ArgumentException("Fuel must be a positive number");
-            }
-
-            if (this.Fuel + amount > this.TankCapacity)
+            if (base.FuelQuantity + amount > this.TankCapacity)
             {
                 throw new InvalidOperationException($"Cannot fit {amount} fuel in the tank");
             }
-            this.Fuel += amount*0.95;
+            base.Refuel(amount * 0.95);
         }
     }
 }

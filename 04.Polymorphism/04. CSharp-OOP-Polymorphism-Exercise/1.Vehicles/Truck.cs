@@ -1,13 +1,19 @@
-﻿namespace Vehicles
-{
-    public class Truck: Vehicle 
-    {
-        private const double TruckAirConditionerModifier = 1.6;
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-        public Truck(double fuel, double fuelConsumption) 
-            : base(fuel, fuelConsumption, TruckAirConditionerModifier)
+namespace _1.Vehicles
+{
+    public class Truck : Vehicle
+    {
+        private const double AirConditionConsumption = 1.6;
+
+        public Truck(double fuelQuantity, double fuelConsumtion)
+            : base(fuelQuantity, fuelConsumtion)
         {
         }
+
+        public override double FuelConsumption => base.FuelConsumption + AirConditionConsumption;
 
         public override void Refuel(double amount)
         {

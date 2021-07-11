@@ -1,17 +1,17 @@
-﻿namespace Raiding
+﻿namespace _3.Raiding
 {
-    public class Paladin:BaseHero
+    public class Paladin : BaseHero
     {
-        private const int BasePower = 100;
+        private const int power = 100;
 
-        public Paladin(string name) 
-            : base(name, BasePower)
+        public Paladin(string name)
+            : base(name, power)
         {
         }
 
         public override string CastAbility()
         {
-            return $"{nameof(Paladin)} - {Name} healed for {Power}";
+            return $"{this.GetType().Name} – {this.Name} healed for {this.Power}";
         }
     }
 }
