@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\bin\Debug\netcoreapp3.1\2.Enter_Numbers.exe
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\bin\Debug\netcoreapp3.1\2.Enter_Numbers.deps.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\bin\Debug\netcoreapp3.1\2.Enter_Numbers.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\bin\Debug\netcoreapp3.1\2.Enter_Numbers.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\bin\Debug\netcoreapp3.1\2.Enter_Numbers.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\bin\Debug\netcoreapp3.1\2.Enter_Numbers.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\obj\Debug\netcoreapp3.1\2.Enter_Numbers.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\obj\Debug\netcoreapp3.1\2.Enter_Numbers.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\obj\Debug\netcoreapp3.1\2.Enter_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\obj\Debug\netcoreapp3.1\2.Enter_Numbers.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\obj\Debug\netcoreapp3.1\2.Enter_Numbers.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\2.Enter_Numbers\obj\Debug\netcoreapp3.1\2.Enter_Numbers.genruntimeconfig.cache

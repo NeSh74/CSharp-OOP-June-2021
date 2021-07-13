@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\bin\Debug\netcoreapp3.1\6.Valid_Person.exe
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\bin\Debug\netcoreapp3.1\6.Valid_Person.deps.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\bin\Debug\netcoreapp3.1\6.Valid_Person.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\bin\Debug\netcoreapp3.1\6.Valid_Person.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\bin\Debug\netcoreapp3.1\6.Valid_Person.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\bin\Debug\netcoreapp3.1\6.Valid_Person.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\obj\Debug\netcoreapp3.1\6.Valid_Person.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\obj\Debug\netcoreapp3.1\6.Valid_Person.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\obj\Debug\netcoreapp3.1\6.Valid_Person.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\obj\Debug\netcoreapp3.1\6.Valid_Person.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\obj\Debug\netcoreapp3.1\6.Valid_Person.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\6.Valid_Person\obj\Debug\netcoreapp3.1\6.Valid_Person.genruntimeconfig.cache

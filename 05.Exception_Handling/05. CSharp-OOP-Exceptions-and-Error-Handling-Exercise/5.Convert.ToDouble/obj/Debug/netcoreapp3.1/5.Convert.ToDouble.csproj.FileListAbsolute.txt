@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\bin\Debug\netcoreapp3.1\5.Convert.ToDouble.exe
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\bin\Debug\netcoreapp3.1\5.Convert.ToDouble.deps.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\bin\Debug\netcoreapp3.1\5.Convert.ToDouble.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\bin\Debug\netcoreapp3.1\5.Convert.ToDouble.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\bin\Debug\netcoreapp3.1\5.Convert.ToDouble.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\bin\Debug\netcoreapp3.1\5.Convert.ToDouble.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\5.Convert.ToDouble\obj\Debug\netcoreapp3.1\5.Convert.ToDouble.genruntimeconfig.cache

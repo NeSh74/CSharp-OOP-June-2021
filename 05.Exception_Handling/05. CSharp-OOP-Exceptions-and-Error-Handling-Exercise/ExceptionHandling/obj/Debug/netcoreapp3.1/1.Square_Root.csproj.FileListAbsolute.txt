@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\bin\Debug\netcoreapp3.1\1.Square_Root.exe
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\bin\Debug\netcoreapp3.1\1.Square_Root.deps.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\bin\Debug\netcoreapp3.1\1.Square_Root.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\bin\Debug\netcoreapp3.1\1.Square_Root.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\bin\Debug\netcoreapp3.1\1.Square_Root.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\bin\Debug\netcoreapp3.1\1.Square_Root.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\ExceptionHandling\obj\Debug\netcoreapp3.1\1.Square_Root.genruntimeconfig.cache

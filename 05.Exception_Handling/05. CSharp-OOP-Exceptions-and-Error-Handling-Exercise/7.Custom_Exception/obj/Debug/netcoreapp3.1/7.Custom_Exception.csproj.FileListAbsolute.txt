@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\bin\Debug\netcoreapp3.1\7.Custom_Exception.exe
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\bin\Debug\netcoreapp3.1\7.Custom_Exception.deps.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\bin\Debug\netcoreapp3.1\7.Custom_Exception.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\bin\Debug\netcoreapp3.1\7.Custom_Exception.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\bin\Debug\netcoreapp3.1\7.Custom_Exception.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\bin\Debug\netcoreapp3.1\7.Custom_Exception.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\7.Custom_Exception\obj\Debug\netcoreapp3.1\7.Custom_Exception.csproj.AssemblyReference.cache

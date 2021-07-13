@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\bin\Debug\netcoreapp3.1\4.Fixing_Vol2.exe
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\bin\Debug\netcoreapp3.1\4.Fixing_Vol2.deps.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\bin\Debug\netcoreapp3.1\4.Fixing_Vol2.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\bin\Debug\netcoreapp3.1\4.Fixing_Vol2.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\bin\Debug\netcoreapp3.1\4.Fixing_Vol2.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\bin\Debug\netcoreapp3.1\4.Fixing_Vol2.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\obj\Debug\netcoreapp3.1\4.Fixing_Vol2.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\obj\Debug\netcoreapp3.1\4.Fixing_Vol2.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\obj\Debug\netcoreapp3.1\4.Fixing_Vol2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\obj\Debug\netcoreapp3.1\4.Fixing_Vol2.dll
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\obj\Debug\netcoreapp3.1\4.Fixing_Vol2.pdb
+C:\Users\lenovo\source\repos\Exercise_Exception_Handling\4.Fixing_Vol2\obj\Debug\netcoreapp3.1\4.Fixing_Vol2.genruntimeconfig.cache
