@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\2.Enter_Numbers\\2.Enter_Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\2.Enter_Numbers\\2.Enter_Numbers.csproj",
       "projectName": "2.Enter_Numbers",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\2.Enter_Numbers\\2.Enter_Numbers.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\2.Enter_Numbers\\2.Enter_Numbers.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\2.Enter_Numbers\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\2.Enter_Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

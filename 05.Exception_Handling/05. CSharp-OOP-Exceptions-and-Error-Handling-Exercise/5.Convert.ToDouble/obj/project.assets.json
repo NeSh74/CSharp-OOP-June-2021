@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\5.Convert.ToDouble\\5.Convert.ToDouble.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\5.Convert.ToDouble\\5.Convert.ToDouble.csproj",
       "projectName": "5.Convert.ToDouble",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\5.Convert.ToDouble\\5.Convert.ToDouble.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\5.Convert.ToDouble\\5.Convert.ToDouble.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\5.Convert.ToDouble\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\5.Convert.ToDouble\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

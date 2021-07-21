@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\6.Valid_Person\\6.Valid_Person.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\6.Valid_Person\\6.Valid_Person.csproj",
       "projectName": "6.Valid_Person",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\6.Valid_Person\\6.Valid_Person.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\6.Valid_Person\\6.Valid_Person.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\6.Valid_Person\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\6.Valid_Person\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

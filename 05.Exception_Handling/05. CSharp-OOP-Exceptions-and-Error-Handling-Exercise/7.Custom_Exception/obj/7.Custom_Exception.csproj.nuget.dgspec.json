@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\7.Custom_Exception\\7.Custom_Exception.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\7.Custom_Exception\\7.Custom_Exception.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\7.Custom_Exception\\7.Custom_Exception.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\7.Custom_Exception\\7.Custom_Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\7.Custom_Exception\\7.Custom_Exception.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\7.Custom_Exception\\7.Custom_Exception.csproj",
         "projectName": "7.Custom_Exception",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\7.Custom_Exception\\7.Custom_Exception.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\7.Custom_Exception\\7.Custom_Exception.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\Exercise_Exception_Handling\\7.Custom_Exception\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\05.Exception_Handling\\05. CSharp-OOP-Exceptions-and-Error-Handling-Exercise\\7.Custom_Exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
