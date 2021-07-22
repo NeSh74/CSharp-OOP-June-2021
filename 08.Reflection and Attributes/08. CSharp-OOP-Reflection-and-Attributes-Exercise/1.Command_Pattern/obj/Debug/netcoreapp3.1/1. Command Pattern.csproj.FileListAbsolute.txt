@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\netcoreapp3.1\CommandPattern.exe
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\netcoreapp3.1\CommandPattern.deps.json
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.json
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\netcoreapp3.1\CommandPattern.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\bin\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\1. Command Pattern.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\1. Command Pattern.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\1. Command Pattern.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\1. Command Pattern.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\CommandPattern.dll
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\CommandPattern.pdb
+C:\Users\lenovo\source\repos\ReflectionExercise\ReflectionExercise\obj\Debug\netcoreapp3.1\1. Command Pattern.genruntimeconfig.cache
