@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.exe
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.deps.json
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.json
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.dll
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\bin\Debug\netcoreapp3.1\UnitTests.pdb
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.dll
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.pdb
+C:\Users\lenovo\source\repos\UnitTests\UnitTests\obj\Debug\netcoreapp3.1\UnitTests.genruntimeconfig.cache
