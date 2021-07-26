@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\lenovo\source\repos\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\lenovo\source\repos\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\lenovo\source\repos\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\lenovo\source\repos\Database\obj\Debug\netcoreapp3.1\Database.pdb
