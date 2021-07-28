@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.deps.json
+C:\Users\lenovo\Desktop\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\lenovo\Desktop\FightingArena\bin\Debug\netcoreapp3.1\FightingArena.pdb
+C:\Users\lenovo\Desktop\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.dll
+C:\Users\lenovo\Desktop\FightingArena\obj\Debug\netcoreapp3.1\FightingArena.pdb
