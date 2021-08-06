@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Users\lenovo\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

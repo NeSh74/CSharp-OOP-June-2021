@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\bin\Debug\netcoreapp3.1\Bakery.exe
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\bin\Debug\netcoreapp3.1\Bakery.deps.json
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.json
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\bin\Debug\netcoreapp3.1\Bakery.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\bin\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\bin\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.dll
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.pdb
+C:\Users\lenovo\source\repos\Exam OOP\Bakery\obj\Debug\netcoreapp3.1\Bakery.genruntimeconfig.cache
