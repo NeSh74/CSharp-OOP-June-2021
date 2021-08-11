@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oaz/DAGwiwpAGOH7ONYHcZ26CI6i6ClWLPQiqE6agdCdGEoMwqc+ZGf6nlwn2xaRkUTxGStSde5ILtvbL0mA+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\source\\repos\\C# OOP Retake Exam - 18 April 2021\\Presents\\Presents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
