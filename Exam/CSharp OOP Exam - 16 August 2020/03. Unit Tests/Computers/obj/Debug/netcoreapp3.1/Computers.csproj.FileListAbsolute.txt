@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+C:\Users\lenovo\source\repos\C# OOP Exam - 16 August 2020\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache
