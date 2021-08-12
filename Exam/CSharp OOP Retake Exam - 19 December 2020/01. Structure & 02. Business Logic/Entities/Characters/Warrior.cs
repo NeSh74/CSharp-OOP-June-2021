@@ -5,23 +5,24 @@ using WarCroft.Entities.Inventory;
 
 namespace WarCroft.Entities.Characters
 {
-    public class Warrior : Character ,IAttacker 
+    public class Warrior : Character, IAttacker
     {
-        public Warrior(string name)
-        :base(name, 100,50,40,new Satchel())
+        private const double WarriorBaseHealth = 100;
+        private const double WarriorBaseArmor = 50;
+        private const double WarriorAbilityPoints = 40;
+
+        public Warrior(string name) : base(name, WarriorBaseHealth, WarriorBaseArmor, WarriorAbilityPoints, new Satchel())
         {
-            
         }
+
         public void Attack(Character character)
         {
             this.EnsureAlive();
-
-            if (character .Equals(this))
+            if (this == character)
             {
                 throw new InvalidOperationException(ExceptionMessages.CharacterAttacksSelf);
             }
-
-            character.TakeDamage(this.abilityPoints);
+            character.TakeDamage(this.AbilityPoints);
         }
     }
 }

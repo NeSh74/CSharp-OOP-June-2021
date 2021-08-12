@@ -9,162 +9,197 @@ using WarCroft.Entities.Items;
 
 namespace WarCroft.Core
 {
-    public class WarController
-    {
-        private readonly IList<Character> characterParty;
-
-        private readonly Stack<Item> itemPool;
+	public class WarController
+	{
+        private List<Character> characters;
+        private Stack<Item> items;
 
         public WarController()
         {
-            characterParty = new List<Character>();
-            itemPool = new Stack<Item>();
+            this.characters = new List<Character>();
+            this.items = new Stack<Item>();
         }
 
         public string JoinParty(string[] args)
         {
-            switch (args[0])
+            string type = args[0];
+            string name = args[1];
+
+            Character character = null;
+            if (type == "Warrior")
             {
-                case "Warrior":
-                    characterParty.Add(new Warrior(args[1]));
-                    break;
-                case "Priest":
-                    characterParty.Add(new Priest(args[1]));
-                    break;
-                default:
-                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidCharacterType, args[0]));
+                character = new Warrior(name);
+            }
+            else if (type == "Priest")
+            {
+                character = new Priest(name);
             }
 
-            return string.Format(SuccessMessages.JoinParty, args[1]);
+            if (character == null)
+            {
+                throw new ArgumentException(string.Format(ExceptionMessages.InvalidCharacterType, type));
+            }
+            this.characters.Add(character);
+            return string.Format(SuccessMessages.JoinParty, name);
         }
 
         public string AddItemToPool(string[] args)
         {
-            switch (args[0])
+            string name = args[0];
+            Item item = null;
+            if (name == "HealthPotion")
             {
-                case "HealthPotion":
-                    itemPool.Push(new HealthPotion());
-                    break;
-                case "FirePotion":
-                    itemPool.Push(new FirePotion());
-                    break;
-                default:
-                    throw new ArgumentException(string.Format(ExceptionMessages.InvalidItem, args[0]));
+                item = new HealthPotion();
+            }
+            else if (name == "FirePotion")
+            {
+                item = new FirePotion();
             }
 
-            return string.Format(SuccessMessages.AddItemToPool, args[0]);
+            if (item == null)
+            {
+                throw new ArgumentException(string.Format(ExceptionMessages.InvalidItem, name));
+            }
+
+            this.items.Push(item);
+            return string.Format(SuccessMessages.AddItemToPool, name);
         }
 
         public string PickUpItem(string[] args)
         {
-            Character character = characterParty.FirstOrDefault(c => c.Name == args[0]);
+            string name = args[0];
+            Character character = this.characters.FirstOrDefault(x => x.Name == name);
 
             if (character == null)
             {
-                throw new ArgumentException(ExceptionMessages.CharacterNotInParty, args[0]);
+                throw new ArgumentException(string.Format(ExceptionMessages.CharacterNotInParty, name));
             }
 
-            if (itemPool.Count == 0)
+            if (this.items.Count == 0)
             {
                 throw new InvalidOperationException(ExceptionMessages.ItemPoolEmpty);
             }
 
-            Item item = itemPool.Pop();
+            Item item = this.items.Pop();
             character.Bag.AddItem(item);
-            return string.Format(SuccessMessages.PickUpItem, character.Name, item, GetType().Name);
+            return string.Format(SuccessMessages.PickUpItem, name, item.GetType().Name);
         }
 
         public string UseItem(string[] args)
         {
-            Character character = characterParty.FirstOrDefault(c => c.Name == args[0]);
+            string charName = args[0];
+            string itemName = args[1];
+
+            Character character = this.characters.FirstOrDefault(x => x.Name == charName);
             if (character == null)
             {
-                throw new ArgumentException(ExceptionMessages.CharacterNotInParty, args[0]);
+                throw new ArgumentException(string.Format(ExceptionMessages.CharacterNotInParty, charName));
             }
 
-            Item item = character.Bag.GetItem(args[1]);
+            Item item = character.Bag.GetItem(itemName);
             character.UseItem(item);
-
-            return string.Format(SuccessMessages.UsedItem, character.Name, item.GetType().Name);
+            return string.Format(SuccessMessages.UsedItem, charName, itemName);
         }
 
         public string GetStats()
         {
             StringBuilder sb = new StringBuilder();
-            var characters = characterParty
-                .OrderByDescending(c => c.IsAlive)
-                .ThenByDescending(c => c.Health);
 
-            foreach (var item in characters)
+            foreach (var character in this.characters.OrderByDescending(x => x.IsAlive).ThenByDescending(x => x.Health))
             {
+                string status = "Alive";
+                if (character.IsAlive == false)
+                {
+                    status = "Dead";
+                }
                 sb.AppendLine(string.Format(SuccessMessages.CharacterStats,
-                    item.Name, item.Health, item.BaseHealth, item.Armor, item.BaseArmor, item.IsAlive ? "Alive" : "Dead"));
+                    character.Name,
+                    character.Health,
+                    character.BaseHealth,
+                    character.Armor,
+                    character.BaseArmor,
+                    status));
             }
 
-            return sb.ToString();
+            return sb.ToString().TrimEnd();
         }
 
         public string Attack(string[] args)
         {
-            Character attacker = characterParty.FirstOrDefault(c => c.Name == args[0]);
-            Character receiver = characterParty.FirstOrDefault(c => c.Name == args[1]);
+            string attackerName = args[0];
+            string defenderName = args[1];
 
-            if (attacker == null)
+            Character attacker = this.characters.FirstOrDefault(x => x.Name == attackerName);
+            Character defender = this.characters.FirstOrDefault(x => x.Name == defenderName);
+
+            if (attacker == null || defender == null)
             {
-                throw new ArgumentException(ExceptionMessages.CharacterNotInParty, args[0]);
+                string name = attackerName;
+                if (attacker != null)
+                {
+                    name = defenderName;
+                }
 
-            }
-            if (receiver == null)
-            {
-                throw new ArgumentException(ExceptionMessages.CharacterNotInParty, args[1]);
-            }
-
-            Warrior warrior = attacker as Warrior;
-
-            if (warrior == null)
-            {
-                throw new ArgumentException(ExceptionMessages.AttackFail, args[0]);
+                throw new ArgumentException(string.Format(ExceptionMessages.CharacterNotInParty, name));
             }
 
-            warrior.Attack(receiver);
-
-            string output = string.Format(SuccessMessages.AttackCharacter, warrior.Name, receiver.Name,
-                warrior.AbilityPoints, receiver.Name, receiver.Health, receiver.BaseHealth, receiver.Armor,
-                receiver.BaseArmor);
-
-            if (receiver.Health == 0)
+            if (attacker is IHealer)
             {
-                string temp = string.Format(SuccessMessages.AttackKillsCharacter, receiver.Name);
-                output = $"{output}\n{temp}";
+                throw new ArgumentException(string.Format(ExceptionMessages.AttackFail, attacker.Name));
             }
 
-            return output;
+            (attacker as IAttacker).Attack(defender);
+
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(string.Format(SuccessMessages.AttackCharacter,
+                attacker.Name,
+                defender.Name,
+                attacker.AbilityPoints,
+                defender.Name,
+                defender.Health,
+                defender.BaseHealth,
+                defender.Armor,
+                defender.BaseArmor));
+
+            if (defender.IsAlive == false)
+            {
+                sb.AppendLine(string.Format(SuccessMessages.AttackKillsCharacter, defender.Name));
+            }
+
+            return sb.ToString().TrimEnd();
         }
 
         public string Heal(string[] args)
         {
-            Character healer = characterParty.FirstOrDefault(c => c.Name == args[0]);
-            Character receiver = characterParty.FirstOrDefault(c => c.Name == args[1]);
+            string healerName = args[0];
+            string healingName = args[1];
 
-            if (healer == null)
+            Character healer = this.characters.FirstOrDefault(x => x.Name == healerName);
+            Character healing = this.characters.FirstOrDefault(x => x.Name == healingName);
+
+            if (healer == null || healing == null)
             {
-                throw new ArgumentException(ExceptionMessages.CharacterNotInParty, args[0]);
-
-            }
-            if (receiver == null)
-            {
-                throw new ArgumentException(ExceptionMessages.CharacterNotInParty, args[1]);
-            }
-
-            Priest priest = healer as Priest;
-
-            if (priest == null)
-            {
-                throw new ArgumentException(ExceptionMessages.HealerCannotHeal, args[0]);
+                string name = healerName;
+                if (healer != null)
+                {
+                    name = healingName;
+                }
+                throw new ArgumentException(string.Format(ExceptionMessages.CharacterNotInParty, name));
             }
 
-            return string.Format(SuccessMessages.HealCharacter, priest.Name, receiver.Name, priest.AbilityPoints,
-                receiver.Name, receiver.Health);
+            if (healer is IAttacker)
+            {
+                throw new ArgumentException(string.Format(ExceptionMessages.HealerCannotHeal, healer.Name));
+            }
+
+            (healer as IHealer).Heal(healing);
+
+            return string.Format(SuccessMessages.HealCharacter,
+                healer.Name,
+                healing.Name,
+                healer.AbilityPoints,
+                healing.Name,
+                healing.Health);
         }
     }
 }

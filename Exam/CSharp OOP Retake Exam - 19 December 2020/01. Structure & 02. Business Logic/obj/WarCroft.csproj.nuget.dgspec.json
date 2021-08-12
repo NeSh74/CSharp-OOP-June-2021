@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\C# OOP Retake Exam - 19 December 2020\\WarCroft.csproj": {}
+    "C:\\Users\\lenovo\\source\\repos\\19-12-2020\\WarCroft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\C# OOP Retake Exam - 19 December 2020\\WarCroft.csproj": {
+    "C:\\Users\\lenovo\\source\\repos\\19-12-2020\\WarCroft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\C# OOP Retake Exam - 19 December 2020\\WarCroft.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\19-12-2020\\WarCroft.csproj",
         "projectName": "WarCroft",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\C# OOP Retake Exam - 19 December 2020\\WarCroft.csproj",
+        "projectPath": "C:\\Users\\lenovo\\source\\repos\\19-12-2020\\WarCroft.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\C# OOP Retake Exam - 19 December 2020\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\source\\repos\\19-12-2020\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

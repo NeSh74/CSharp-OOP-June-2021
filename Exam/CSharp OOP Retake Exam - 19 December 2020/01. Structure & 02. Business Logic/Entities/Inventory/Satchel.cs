@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace WarCroft.Entities.Inventory
+﻿namespace WarCroft.Entities.Inventory
 {
     public class Satchel : Bag
     {
-        public Satchel()
-        : base(20)
+        private const int SatchelCapacity = 20;
+
+        public Satchel() : base(SatchelCapacity)
         {
         }
     }

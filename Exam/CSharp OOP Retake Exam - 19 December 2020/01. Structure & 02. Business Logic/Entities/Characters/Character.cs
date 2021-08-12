@@ -10,121 +10,47 @@ namespace WarCroft.Entities.Characters.Contracts
     {
         // TODO: Implement the rest of the class.
 
-        private readonly double baseHealth;
+        private string _name;
 
-        private readonly double baseArmor;
-
-        protected readonly double abilityPoints;
-
-        private double health;
-        private double armor;
-
-        public string Name { get; }
-
-        public double BaseArmor {
-            get
-            {
-                return baseArmor;
-            }
-
-        }public double AbilityPoints
+        protected Character
+            (string name, double baseHealth, double baseArmor, double abilityPoints, Bag bag)
         {
-            get
-            {
-                return abilityPoints;
-            }
-        }
-
-        public double BaseHealth {
-            get
-            {
-                return baseHealth;
-            }
-        }
-
-        public double Health
-        {
-            get
-            {
-                return health;
-            }
-            set
-            {
-                if (value < 0)
-                {
-                    health = 0;
-                }
-                else if (value > baseHealth)
-                {
-                    health = baseHealth;
-                }
-                else
-                {
-                    health = value;
-                }
-            }
-        }
-
-        public double Armor
-        {
-            get
-            {
-                return armor;
-            }
-            set
-            {
-                if (value < 0)
-                {
-                    armor = 0;
-                }
-                else
-                {
-                    armor = value;
-                }
-            }
-        }
-
-        public IBag Bag { get; }
-
-        public bool IsAlive { get; set; } = true;
-
-        public Character(string name, double health, double armor, double abilityPoints, Bag bag)
-        {
-            if (string.IsNullOrWhiteSpace(name))
-            {
-                throw new ArgumentException(ExceptionMessages.CharacterNameInvalid);
-            }
-
             this.Name = name;
-            this.baseHealth = health;
-            this.Health = health;
-            this.baseArmor = armor;
-            this.Armor = armor;
-            this.abilityPoints = abilityPoints;
+            this.BaseHealth = baseHealth;
+            this.Health = this.BaseHealth;
+            this.BaseArmor = baseArmor;
+            this.Armor = this.BaseArmor;
+            this.AbilityPoints = abilityPoints;
             this.Bag = bag;
         }
 
-        public virtual void TakeDamage(double hitpoints)
+        public string Name
         {
-            this.EnsureAlive();
-            double healthReduce = hitpoints - this.Armor;
-            this.Armor -= hitpoints;
-            if (healthReduce > 0)
+            get => this._name;
+            set
             {
-                this.Health -= healthReduce;
-            }
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException(ExceptionMessages.CharacterNameInvalid);
+                }
 
-            if (this.Health == 0)
-            {
-                this.IsAlive = false;
+                this._name = value;
             }
         }
 
-        public virtual void UseItem(Item item)
-        {
-            this.EnsureAlive();
-            item.AffectCharacter(this);
-        }
+        public double BaseHealth { get; }
+
+        public double Health { get; set; }
+
+        public double BaseArmor { get; }
+
+        public double Armor { get; private set; }
+
+        public double AbilityPoints { get; private set; }
+
+        public Bag Bag { get; set; }
+
+        public bool IsAlive { get; set; } = true;
 
         protected void EnsureAlive()
         {
@@ -132,6 +58,35 @@ namespace WarCroft.Entities.Characters.Contracts
             {
                 throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
+        }
+
+        public void TakeDamage(double hitPoints)
+        {
+            this.EnsureAlive();
+            this.Armor -= hitPoints;
+            if (this.Armor < 0)
+            {
+                hitPoints = Math.Abs(this.Armor);
+                this.Armor = 0;
+                this.Health -= hitPoints;
+            }
+
+            this.CheckIsDead();
+        }
+
+        public void CheckIsDead()
+        {
+            if (this.Health <= 0)
+            {
+                this.Health = 0;
+                this.IsAlive = false;
+            }
+        }
+
+        public void UseItem(Item item)
+        {
+            this.EnsureAlive();
+            item.AffectCharacter(this);
         }
     }
 }

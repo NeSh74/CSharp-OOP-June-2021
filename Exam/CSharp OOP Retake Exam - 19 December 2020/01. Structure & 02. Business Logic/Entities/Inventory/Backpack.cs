@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace WarCroft.Entities.Inventory
+﻿namespace WarCroft.Entities.Inventory
 {
     public class Backpack : Bag
     {
-        public Backpack()
-        : base(100)
+        private const int BackPackCapacity = 100;
+        public Backpack() : base(BackPackCapacity)
         {
         }
     }
