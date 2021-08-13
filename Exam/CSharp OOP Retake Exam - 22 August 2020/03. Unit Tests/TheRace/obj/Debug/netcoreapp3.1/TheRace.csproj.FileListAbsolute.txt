@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+C:\Users\lenovo\source\repos\22-08-2020\UnitTests-Skeleton\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb
