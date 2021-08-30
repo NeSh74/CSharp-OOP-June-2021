@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6b36beb9_002D4a2a_002D4945_002D9448_002D706096a65f8e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetHeroMethodShouldWorksCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.GetHeroMethodShouldWorksCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.ConstructorShouldWorksCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.HeroesCollectionShouldCollectOnlyHeroes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.CreateMethodShouldWorksCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.CreateMethodShouldReturnCorrectMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.CreateMethodShouldThrowsArgumentNullExceptionIfHeroIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.CreateMethodShouldThrowsInvalidOperationExceptionIfHeroWithThatNameExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.RemoveMethodShouldWorksCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.RemoveMethodShouldReturnTrueIfHeroIsRemoved&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.RemoveMethodShouldReturnFalseIfHeroIsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.RemoveMethodShouldThrowArgumentNullExceptionIfNameIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.RemoveMethodShouldThrowArgumentNullExceptionIfNameIsWhiteSpace&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4DA09406-FE89-4F1B-A9C2-263BFAD93F31::.NETCoreApp,Version=v3.1::HeroRepositoryTests.GetHeroWithHighestLevelMethodShouldWorksCorrectly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
