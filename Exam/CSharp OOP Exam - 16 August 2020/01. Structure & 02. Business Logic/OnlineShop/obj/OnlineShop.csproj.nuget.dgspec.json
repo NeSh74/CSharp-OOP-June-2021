@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\C# OOP Exam - 16 August 2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 16 August 2020\\01. Structure & 02. Business Logic\\OnlineShop\\OnlineShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\C# OOP Exam - 16 August 2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 16 August 2020\\01. Structure & 02. Business Logic\\OnlineShop\\OnlineShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\C# OOP Exam - 16 August 2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 16 August 2020\\01. Structure & 02. Business Logic\\OnlineShop\\OnlineShop.csproj",
         "projectName": "OnlineShop",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\C# OOP Exam - 16 August 2020\\OnlineShop-Skeleton\\OnlineShop\\OnlineShop.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 16 August 2020\\01. Structure & 02. Business Logic\\OnlineShop\\OnlineShop.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\C# OOP Exam - 16 August 2020\\OnlineShop-Skeleton\\OnlineShop\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 16 August 2020\\01. Structure & 02. Business Logic\\OnlineShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

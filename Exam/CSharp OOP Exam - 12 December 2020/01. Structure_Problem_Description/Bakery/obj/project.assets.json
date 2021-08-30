@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\Exam OOP\\Bakery\\Bakery.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 12 December 2020\\01. Structure_Problem_Description\\Bakery\\Bakery.csproj",
       "projectName": "Bakery",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\Exam OOP\\Bakery\\Bakery.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 12 December 2020\\01. Structure_Problem_Description\\Bakery\\Bakery.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\Exam OOP\\Bakery\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\C# OOP - June 2021\\CSharp-OOP-June-2021\\Exam\\CSharp OOP Exam - 12 December 2020\\01. Structure_Problem_Description\\Bakery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\lenovo\Desktop\C# OOP - June 2021\CSharp-OOP-June-2021\Exam\CSharp OOP Exam - 15 August 2021\01. Structure_Skeleton(2)\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache
